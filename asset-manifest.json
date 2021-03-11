@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OmediaChallange/static/css/main.58d8da61.chunk.css",
-    "main.js": "/OmediaChallange/static/js/main.c7a10501.chunk.js",
-    "main.js.map": "/OmediaChallange/static/js/main.c7a10501.chunk.js.map",
+    "main.js": "/OmediaChallange/static/js/main.f66276f3.chunk.js",
+    "main.js.map": "/OmediaChallange/static/js/main.f66276f3.chunk.js.map",
     "runtime-main.js": "/OmediaChallange/static/js/runtime-main.a4058206.js",
     "runtime-main.js.map": "/OmediaChallange/static/js/runtime-main.a4058206.js.map",
     "static/js/2.01e0ffb9.chunk.js": "/OmediaChallange/static/js/2.01e0ffb9.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a4058206.js",
     "static/js/2.01e0ffb9.chunk.js",
     "static/css/main.58d8da61.chunk.css",
-    "static/js/main.c7a10501.chunk.js"
+    "static/js/main.f66276f3.chunk.js"
   ]
 }
