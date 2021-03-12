@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/OmediaChallange/static/css/main.58d8da61.chunk.css",
-    "main.js": "/OmediaChallange/static/js/main.f66276f3.chunk.js",
-    "main.js.map": "/OmediaChallange/static/js/main.f66276f3.chunk.js.map",
+    "main.css": "/OmediaChallange/static/css/main.bcabcb6a.chunk.css",
+    "main.js": "/OmediaChallange/static/js/main.7fc90840.chunk.js",
+    "main.js.map": "/OmediaChallange/static/js/main.7fc90840.chunk.js.map",
     "runtime-main.js": "/OmediaChallange/static/js/runtime-main.a4058206.js",
     "runtime-main.js.map": "/OmediaChallange/static/js/runtime-main.a4058206.js.map",
-    "static/js/2.01e0ffb9.chunk.js": "/OmediaChallange/static/js/2.01e0ffb9.chunk.js",
-    "static/js/2.01e0ffb9.chunk.js.map": "/OmediaChallange/static/js/2.01e0ffb9.chunk.js.map",
+    "static/js/2.b499fe5d.chunk.js": "/OmediaChallange/static/js/2.b499fe5d.chunk.js",
+    "static/js/2.b499fe5d.chunk.js.map": "/OmediaChallange/static/js/2.b499fe5d.chunk.js.map",
     "index.html": "/OmediaChallange/index.html",
-    "static/css/main.58d8da61.chunk.css.map": "/OmediaChallange/static/css/main.58d8da61.chunk.css.map",
-    "static/js/2.01e0ffb9.chunk.js.LICENSE.txt": "/OmediaChallange/static/js/2.01e0ffb9.chunk.js.LICENSE.txt"
+    "static/css/main.bcabcb6a.chunk.css.map": "/OmediaChallange/static/css/main.bcabcb6a.chunk.css.map",
+    "static/js/2.b499fe5d.chunk.js.LICENSE.txt": "/OmediaChallange/static/js/2.b499fe5d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a4058206.js",
-    "static/js/2.01e0ffb9.chunk.js",
-    "static/css/main.58d8da61.chunk.css",
-    "static/js/main.f66276f3.chunk.js"
+    "static/js/2.b499fe5d.chunk.js",
+    "static/css/main.bcabcb6a.chunk.css",
+    "static/js/main.7fc90840.chunk.js"
   ]
 }
